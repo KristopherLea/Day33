@@ -53,6 +53,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -140,6 +143,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1605726190492">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.760/-1280.-124.1280.984@0.0.1280.760" timestamp="1605726190492" />
     <state x="445" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1605715859914">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
